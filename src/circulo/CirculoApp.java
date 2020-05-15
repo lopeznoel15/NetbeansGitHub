@@ -8,8 +8,7 @@ package circulo;
 /**
  *
  * @author Noel
- * @version 15/05/2020
  */
-public class Circulo {
+public class CirculoApp {
     
 }
